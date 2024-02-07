@@ -1,9 +1,9 @@
-prefix=/root/android/openssl_for_ios_and_android/openssl_for_ios_and_android-ci-release-5843a396/tools/../output/android/openssl-x86_64
+prefix=/root/android/openssl_for_ios_and_android-ci-release-6fbdf65f/tools/../output/android/openssl-x86_64
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
 
 Name: OpenSSL
 Description: Secure Sockets Layer and cryptography libraries and tools
-Version: 1.1.1i
+Version: 1.1.1t
 Requires: libssl libcrypto
